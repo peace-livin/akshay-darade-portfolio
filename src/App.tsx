@@ -128,7 +128,7 @@ function App() {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-500 to-purple-500 rounded-full blur-3xl opacity-20"></div>
               <img 
                 src=".akshay/akshay.jpg.jpg"
-                alt="Akshay"
+                alt="Akshay Darade"
                 className="relative w-72 h-72 rounded-full mx-auto object-cover border-4 border-gray-800 shadow-2xl transform hover:scale-105 transition-transform duration-300"
               />
             </div>
